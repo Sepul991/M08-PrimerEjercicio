@@ -1,5 +1,4 @@
 [[_TOC_]]
-# CFGS DAW M08
 ## Sobre el projecte
 Aquest projecte és la meva primera demo en gitlab
 ## Contribuidors
