@@ -8,5 +8,4 @@ Aquest projecte és la meva primera demo en gitlab
 <br/>
 Enllaç del projecte:
 [https://gitlab.com/user/project](https://gitlab.com/user/project)
-## Modificacio part 4 Contribuidors
-**RAUL SANDEZ** - ***@raulSM20***
+
