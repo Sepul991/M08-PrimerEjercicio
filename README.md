@@ -9,3 +9,4 @@ Aquest projecte és la meva primera demo en gitlab
 <br/>
 Enllaç del projecte:
 [https://gitlab.com/user/project](https://gitlab.com/user/project)
+![Picture](https://github.com/Sepul991/M08-PrimerEjercicio/assets/131881281/695fda18-6100-4f35-a974-1b059a3b1ed2)
